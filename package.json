@@ -29,7 +29,7 @@
     "bluebird": "^2.3.10",
     "browserify": "^13.0.0",
     "chai": "^1.9.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-istanbul": "^0.10.3",
     "gulp-mocha": "^2.2.0",
     "gulp-mocha-phantomjs": "^0.11.0",
