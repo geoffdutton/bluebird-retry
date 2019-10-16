@@ -26,7 +26,7 @@
     "bluebird": ">=2.3.10"
   },
   "devDependencies": {
-    "bluebird": "^2.3.10",
+    "bluebird": "^3.7.1",
     "browserify": "^13.0.0",
     "chai": "^1.9.2",
     "gulp": "^3.9.1",
