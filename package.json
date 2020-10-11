@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "bluebird": "^2.3.10",
-    "browserify": "^13.0.0",
+    "browserify": "^17.0.0",
     "chai": "^1.9.2",
     "gulp": "^3.9.1",
     "gulp-istanbul": "^0.10.3",
